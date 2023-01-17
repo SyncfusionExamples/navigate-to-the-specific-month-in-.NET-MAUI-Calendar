@@ -2,7 +2,7 @@
 
 This repository contains a sample to navigate to the specific month in the [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control.
 
-Please refer the KB through this link.
+Please refer the KB through this [link](https://www.syncfusion.com/kb/13827/how-to-navigate-to-the-specific-month-in-net-maui-calendar-sfcalendar).
 
 ## Syncfusion controls
 
