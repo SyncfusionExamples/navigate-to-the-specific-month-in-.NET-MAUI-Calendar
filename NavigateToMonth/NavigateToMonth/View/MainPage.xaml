@@ -7,6 +7,7 @@
 
     <ContentPage.Content>
         <calendar:SfCalendar x:Name="calendar"
+                             x:DataType="local:ViewModel"
                              DisplayDate="{Binding MoveToDate}">
             <calendar:SfCalendar.BindingContext>
                 <local:ViewModel />
